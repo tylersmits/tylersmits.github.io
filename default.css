@@ -225,7 +225,7 @@ hr {
 
 #header-wrapper
 {
-	overflow: hidden;
+	overflow: visible;
 	background: url(images/bg01.png) repeat;
 	background-size: 100%;
 	padding: 6em 0em 2em 0em;
@@ -240,7 +240,7 @@ hr {
 	#header
 	{
 		position: relative;
-		overflow: hidden;
+		overflow: visible;
 		text-align: center;
 	}
 
@@ -523,7 +523,7 @@ hr {
 
 	#footer-wrapper
 	{
-		overflow: hidden;
+		overflow: visible;
 		padding: 5em 0em;
 		background: #1E1B1A;
 	}
