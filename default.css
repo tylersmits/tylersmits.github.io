@@ -281,7 +281,7 @@ hr {
 
 	#banner
 	{
-		overflow: hidden;
+		overflow: visible;
 		height: 500px;
 		background: url(images/pic01.jpg) no-repeat center;
 		background-size: cover;
@@ -300,7 +300,7 @@ hr {
 }
 
 #menu {
-	overflow: hidden;
+	overflow: visible;
 	height: 100px;
 }
 
@@ -342,7 +342,7 @@ hr {
 #page
 {
 	position: relative;
-	overflow: hidden;
+	overflow: visible;
 	padding: 6em 0em 5em 0em;
 }
 
@@ -381,7 +381,7 @@ hr {
 
 	#copyright
 	{
-		overflow: hidden;
+		overflow: visible;
 		padding: 5em 0em;
 		text-align: center;
 	}
@@ -407,7 +407,7 @@ hr {
 
 	#welcome
 	{
-		overflow: hidden;
+		overflow: visible;
 		padding: 5em 0em;
 		border-bottom: 1px solid #E5E5E5;
 		text-align: center;
@@ -449,7 +449,7 @@ hr {
 
 	#portfolio
 	{
-		overflow: hidden;
+		overflow: visible;
 	}
 
 	#portfolio .title h2
