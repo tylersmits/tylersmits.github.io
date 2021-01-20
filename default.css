@@ -561,7 +561,7 @@ hr {
 		float: left;
 		width: 354px;
 		margin-right: 24px;
-		padding-right: 30px;
+		padding-right: 20px;
 	}
 
 	#box2
@@ -569,12 +569,12 @@ hr {
 		float: left;
 		width: 354px;
 		margin-left: 24px;
-		padding-right: 30px;
+		padding-right: 20px;
 	}
 
 	#box3
 	{
 		float: right;
 		width: 344px;
-		padding-left: 40px;
+		padding-left: 30px;
 	}
