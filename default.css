@@ -523,7 +523,7 @@ hr {
 
 	#footer-wrapper
 	{
-		overflow: visible;
+		overflow: hidden;
 		padding: 5em 0em;
 		background: #1E1B1A;
 	}
